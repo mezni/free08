@@ -1,3 +1,3 @@
-# Project Name
+# agentic-ai
 
-A brief description of my project.
+[View the project on GitHub](https://github.com/mezni/learn-ai/tree/main/agentic-ai)
